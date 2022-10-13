@@ -1,2 +1,9 @@
 ![Diagrama 1](https://github.com/jmnoriegav01/BBDD/blob/main/T2-ModeloER/01%20Diagrama.jpg) 
-
+![Diagrama 2](https://github.com/jmnoriegav01/BBDD/blob/main/T2-ModeloER/01%20Diagrama.jpg)
+![Diagrama 3](https://github.com/jmnoriegav01/BBDD/blob/main/T2-ModeloER/01%20Diagrama.jpg)
+![Diagrama 4](https://github.com/jmnoriegav01/BBDD/blob/main/T2-ModeloER/01%20Diagrama.jpg)
+![Diagrama 5](https://github.com/jmnoriegav01/BBDD/blob/main/T2-ModeloER/01%20Diagrama.jpg)
+![Diagrama 6](https://github.com/jmnoriegav01/BBDD/blob/main/T2-ModeloER/01%20Diagrama.jpg)
+![Diagrama 7](https://github.com/jmnoriegav01/BBDD/blob/main/T2-ModeloER/01%20Diagrama.jpg)
+![Diagrama 9](https://github.com/jmnoriegav01/BBDD/blob/main/T2-ModeloER/01%20Diagrama.jpg)
+![Diagrama Completo](https://github.com/jmnoriegav01/BBDD/blob/main/T2-ModeloER/01%20Diagrama.jpg)
