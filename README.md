@@ -1,9 +1,2 @@
-![Diagrama 1](https://github.com/jmnoriegav01/BBDD/blob/main/Imagenes/01-Diagrama.jpg) 
-![Diagrama 2](https://github.com/jmnoriegav01/BBDD/blob/main/Imagenes/02-Diagrama.jpg)
-![Diagrama 3](https://github.com/jmnoriegav01/BBDD/blob/main/Imagenes/03-Diagrama.jpg)
-![Diagrama 4](https://github.com/jmnoriegav01/BBDD/blob/main/Imagenes/04-Diagrama.jpg)
-![Diagrama 5](https://github.com/jmnoriegav01/BBDD/blob/main/Imagenes/05-Diagrama.jpg)
-![Diagrama 6](https://github.com/jmnoriegav01/BBDD/blob/main/Imagenes/06-Diagrama.jpg)
-![Diagrama 7](https://github.com/jmnoriegav01/BBDD/blob/main/Imagenes/07-Diagrama.jpg)
-![Diagrama 8](https://github.com/jmnoriegav01/BBDD/blob/main/Imagenes/08-Diagrama.jpg)
-![Diagrama Completo](https://github.com/jmnoriegav01/BBDD/blob/main/Imagenes/09-Diagrama-Completo.jpg)
+#Autor: Jose Maria Noriega Vazquez
+#E-mail: jmnoriegav01@iescastelar.com
